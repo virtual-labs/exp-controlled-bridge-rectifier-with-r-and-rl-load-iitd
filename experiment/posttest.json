@@ -2,12 +2,13 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+
+      "question": "1. What is the primary function of a controlled bridge rectifier?",
+      "answers": {        
+        "a": "To convert DC to AC voltage",
+        "b": "To convert AC to DC voltage",
+        "c": "To boost the AC input voltage",
+        "d": "To convert AC to AC voltage"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +16,76 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
+      
     {
-      "question": "This is a Sample Question 2?",
+
+      "question": "2. Which component is used for controlling the output voltage of a controlled bridge rectifier?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diode",
+        "b": "Thyristor",
+        "c": "Capacitor",
+        "d": "Resistor"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+
+      "question": "3. How many Thyristors are required to implement single-phase fully-controlled bridge rectifier circuit?",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+        
+    {
+
+      "question": "4. A 220 V, 50 Hz single-phase supply is feeding a fully-controlled bridge rectifier. It is supplying a highly inductive load with firing angle 60&#176;. What is the average load voltage?",
+      "answers": {
+        "a": "≈ 120 V",
+        "b": "≈ 99 V",
+        "c": "≈ 220 V",
+        "d": "≈ 110 V"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    
+    {
+      
+
+      "question": "5. A 220 V, 50 Hz single-phase supply is feeding a fully-controlled bridge rectifier. It is supplying a highly inductive load with firing angle 60&#176;. What is the input power factor?",
+      "answers": {
+        "a": "Zero",
+        "b": "UPF",
+        "c": "0.5 (lag)",
+        "d": "0.87 (lag)"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
