@@ -1,7 +1,8 @@
 ### Theory
 
+
 <center>
-  <img src="images/th1.png" height="300px">
+  <img src="images/th1.png" height="220px">
   
 Fig. 1. Silicon controlled rectifier/ Thyristor.
 
@@ -20,7 +21,7 @@ Thyristor-based rectifiers offer the advantage of controlled rectification, allo
 <br>
 
 <center>
-  <img src="images/th2.png" height="300px">
+  <img src="images/th2.png" height="700px">
   
 <br>Fig. 2. Circuit diagram of controlled rectifier.
 
@@ -68,20 +69,19 @@ Fig. (2) shows a fully controlled bridge rectifier, which uses four thyristors t
 
 <br>
 <div style="float: left; width:50%;">
-  <img src="images/th5.png" height="135px">
+  <img src="images/th5.png" height="60px">
 </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(1)
 </div>
 <br>
 
-<div style="float: left; width:100%;"><br>
+<div style="float: left; width:100%;">
 &nbsp;
-<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th6.png" height="80px">
+  <img src="images/th6.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(2)
@@ -90,11 +90,11 @@ Fig. (2) shows a fully controlled bridge rectifier, which uses four thyristors t
 <br>
 
 <div style="float: left; width:100%;"><br>
-The RMS value of the output voltage V_rms and current I_rms are:
-</div><br>
+The RMS value of the output voltage V_rms and current I_rms are:<br>
+</div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th7.png" height="80px">
+  <img src="images/th7.png" height="70px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(3)
@@ -104,11 +104,10 @@ The RMS value of the output voltage V_rms and current I_rms are:
 
 <div style="float: left; width:100%;"><br>
 &nbsp;
-<br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th8.png" height="50px">
+  <img src="images/th8.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(4)
@@ -121,7 +120,7 @@ The RMS value of the output voltage V_rms and current I_rms are:
 </div><br>
 
 <div style="float: left; width:50%;">
-  <img src="images/th9.png" height="90px">
+  <img src="images/th9.png" height="50px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(5)
@@ -135,7 +134,7 @@ Apparent power is:
 </div><br>
 
 <div style="float: left; width:50%;">
-  <img src="images/th10.png" height="85px">
+  <img src="images/th10.png" height="50px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(6)
@@ -150,7 +149,7 @@ Input Power factor is:
 
 
 <div style="float: left; width:50%;">
-  <img src="images/th11.png" height="105px">
+  <img src="images/th11.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(7)
@@ -184,10 +183,10 @@ Input Power factor is:
 
 <br>
 <center>Fig. 4. Steady-state waveforms of controlled rectifier.</center>
-<br><br>
+
 
 <div style="float: left; width:100%;">
-<br><br>
+<br>
 
 **WITH RL-LOAD**
 
@@ -199,11 +198,11 @@ Input Power factor is:
 <br>
 <div style="float: left; width:100%;"><br>
 The average (DC) output voltage and current are:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th14.png" height="75px">
+  <img src="images/th14.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(8)
@@ -213,11 +212,10 @@ The average (DC) output voltage and current are:
 
 <div style="float: left; width:100%;"><br>
 &nbsp;
-<br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th15.png" height="105px">
+  <img src="images/th15.png" height="65px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(9)
@@ -231,7 +229,7 @@ The RMS value of the output voltage and current waveforms are formulated as:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th16.png" height="85px">
+  <img src="images/th16.png" height="78px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(10)
@@ -241,11 +239,10 @@ The RMS value of the output voltage and current waveforms are formulated as:
 
 <div style="float: left; width:100%;"><br>
 &nbsp;
-<br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th17.png" height="85px">
+  <img src="images/th17.png" height="60px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(11)
@@ -255,11 +252,11 @@ The RMS value of the output voltage and current waveforms are formulated as:
 
 <div style="float: left; width:100%;"><br>
 The input source current Fourier series expansion is:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th18.png" height="76px">
+  <img src="images/th18.png" height="50px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(12)
@@ -273,7 +270,7 @@ The RMS value of the nth harmonic input current is:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th19.png" height="76px">
+  <img src="images/th19.png" height="70px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(13)
@@ -287,7 +284,7 @@ RMS value of the fundamental current is:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th20.png" height="76px">
+  <img src="images/th20.png" height="65px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(14)
@@ -301,7 +298,7 @@ The RMS value of input current is:
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th21.png" height="76px">
+  <img src="images/th21.png" height="80px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(15)
@@ -311,11 +308,11 @@ The RMS value of input current is:
 
 <div style="float: left; width:100%;"><br>
 Harmonic factor:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th22.png" height="76px">
+  <img src="images/th22.png" height="70px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(16)
@@ -325,11 +322,11 @@ Harmonic factor:
 
 <div style="float: left; width:100%;"><br>
 Displacement factor:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th23.png" height="76px">
+  <img src="images/th23.png" height="45px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(17)
@@ -339,11 +336,11 @@ Displacement factor:
 
 <div style="float: left; width:100%;"><br>
 Power factor:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th24.png" height="76px">
+  <img src="images/th24.png" height="75px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(18)
@@ -353,11 +350,11 @@ Power factor:
 
 <div style="float: left; width:100%;"><br>
 Output power:
-<br>
+<br><br>
 </div>
 
 <div style="float: left; width:50%;">
-  <img src="images/th25.png" height="76px">
+  <img src="images/th25.png" height="55px">
       </div>
 <div style="float: right; width:50%; text-align:center;">
     ..(19)
