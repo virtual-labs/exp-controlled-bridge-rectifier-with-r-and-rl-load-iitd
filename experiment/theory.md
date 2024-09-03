@@ -265,7 +265,8 @@ The input source current Fourier series expansion is:
 <br>
 
 <div style="float: left; width:100%;"><br>
-The RMS value of the nth harmonic input current is:
+Where n = 1,2,3 ....<br>
+The RMS value of the n<sup>th</sup> harmonic input current is:
 <br>
 </div>
 
