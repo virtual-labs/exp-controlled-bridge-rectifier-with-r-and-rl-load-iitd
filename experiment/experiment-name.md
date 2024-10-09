@@ -1,1 +1,1 @@
-## Performance Measurement and Analysis of Single-phase AC-DC Controlled Bridge Rectifier
+## Performance measurement and analysis of single phase AC-DC controlled bridge rectifier with R and RL Load
