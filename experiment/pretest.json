@@ -11,12 +11,12 @@
         "d": "Independent of firing angle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation 1",
+        "b": "Explanation 2: As the firing angle increases, the conduction period decreases, reducing the average output voltage.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
       
@@ -30,10 +30,10 @@
         "d": "By changing the amplitude of the input AC voltage and/or firing angle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: The output voltage of a controlled bridge rectifier can be controlled by adjusting the input AC voltage amplitude and/or the firing angle of the SCR."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -49,10 +49,10 @@
         "d": "Easy power control"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: A controlled bridge rectifier allows precise control of the output voltage and power by adjusting the firing angle of the thyristors, which is not the case in uncontrolled rectifier."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -68,10 +68,10 @@
         "d": "Square waveform"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4: Highly inductive loads will not allow sudden change in the current while the current in resistive load follow the voltage."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -88,12 +88,12 @@
         "d": "Load voltage is same as the source voltage."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1: If both thyristors in the same leg of a bridge rectifier conduct simultaneously, it creates a direct short circuit across the input voltage source. ",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
