@@ -21,7 +21,7 @@ Thyristor-based rectifiers offer the advantage of controlled rectification, allo
 <br>
 
 <center>
-  <img src="images/th2.png" height="700px">
+  <img src="images/th2.png" height="460px">
   
 <br>Fig. 2. Circuit diagram of controlled rectifier.
 
