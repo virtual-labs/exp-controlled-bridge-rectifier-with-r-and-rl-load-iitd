@@ -1,0 +1,480 @@
+
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/arrow.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/box_img.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/btn_delete.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/btn_record.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/btn_reset.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/component_t1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/component_t2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/component_t3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/component_t4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/graph_border.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/load_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/load_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_a.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_graph_full.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_left_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_left_graph_text.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_right_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_right_graph_text.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_5.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_tab_6.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_text_2_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_text_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_v_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_v_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_1_v_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_a.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_graph_full.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_4.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_5.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_6.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_7.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_tab_8.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_text_2_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_text_graph.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_v_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_v_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/option_2_v_3.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/part_1_circuit.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/part_1_circuit_without_box.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/part_2_select_option_full.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/right_tick.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/tab_alpha.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/tab_set_1.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/tab_set_2.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/tab_thyristor.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/text_choose.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/text_connect.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/text_correct.png"
+    />
+    
+     <img
+        class="main-window-imgs"
+        src="./src/images/EE18/value_box_alpha.png"
+    />
+    
+
+arrow:this.allImgsDom[index++],
+box_img:this.allImgsDom[index++],
+btn_delete:this.allImgsDom[index++],
+btn_record:this.allImgsDom[index++],
+btn_reset:this.allImgsDom[index++],
+component_t1:this.allImgsDom[index++],
+component_t2:this.allImgsDom[index++],
+component_t3:this.allImgsDom[index++],
+component_t4:this.allImgsDom[index++],
+graph_border:this.allImgsDom[index++],
+load_1:this.allImgsDom[index++],
+load_2:this.allImgsDom[index++],
+option_1:this.allImgsDom[index++],
+option_1_a:this.allImgsDom[index++],
+option_1_graph_1:this.allImgsDom[index++],
+option_1_graph_2:this.allImgsDom[index++],
+option_1_graph_3:this.allImgsDom[index++],
+option_1_graph_4:this.allImgsDom[index++],
+option_1_graph_circuit:this.allImgsDom[index++],
+option_1_graph_full:this.allImgsDom[index++],
+option_1_left_graph:this.allImgsDom[index++],
+option_1_left_graph_text:this.allImgsDom[index++],
+option_1_right_graph:this.allImgsDom[index++],
+option_1_right_graph_text:this.allImgsDom[index++],
+option_1_tab_1:this.allImgsDom[index++],
+option_1_tab_2:this.allImgsDom[index++],
+option_1_tab_3:this.allImgsDom[index++],
+option_1_tab_4:this.allImgsDom[index++],
+option_1_tab_5:this.allImgsDom[index++],
+option_1_tab_6:this.allImgsDom[index++],
+option_1_text_2_graph:this.allImgsDom[index++],
+option_1_text_graph:this.allImgsDom[index++],
+option_1_v_1:this.allImgsDom[index++],
+option_1_v_2:this.allImgsDom[index++],
+option_1_v_3:this.allImgsDom[index++],
+option_2:this.allImgsDom[index++],
+option_2_a:this.allImgsDom[index++],
+option_2_graph_1:this.allImgsDom[index++],
+option_2_graph_2:this.allImgsDom[index++],
+option_2_graph_3:this.allImgsDom[index++],
+option_2_graph_4:this.allImgsDom[index++],
+option_2_graph_circuit:this.allImgsDom[index++],
+option_2_graph_full:this.allImgsDom[index++],
+option_2_tab_1:this.allImgsDom[index++],
+option_2_tab_2:this.allImgsDom[index++],
+option_2_tab_3:this.allImgsDom[index++],
+option_2_tab_4:this.allImgsDom[index++],
+option_2_tab_5:this.allImgsDom[index++],
+option_2_tab_6:this.allImgsDom[index++],
+option_2_tab_7:this.allImgsDom[index++],
+option_2_tab_8:this.allImgsDom[index++],
+option_2_text_2_graph:this.allImgsDom[index++],
+option_2_text_graph:this.allImgsDom[index++],
+option_2_v_1:this.allImgsDom[index++],
+option_2_v_2:this.allImgsDom[index++],
+option_2_v_3:this.allImgsDom[index++],
+part_1_circuit:this.allImgsDom[index++],
+part_1_circuit_without_box:this.allImgsDom[index++],
+part_2_select_option_full:this.allImgsDom[index++],
+right_tick:this.allImgsDom[index++],
+tab_alpha:this.allImgsDom[index++],
+tab_set_1:this.allImgsDom[index++],
+tab_set_2:this.allImgsDom[index++],
+tab_thyristor:this.allImgsDom[index++],
+text_choose:this.allImgsDom[index++],
+text_connect:this.allImgsDom[index++],
+text_correct:this.allImgsDom[index++],
+value_box_alpha:this.allImgsDom[index++],
+
+
+arrow : new Dom("arrow"),
+box_img : new Dom("box_img"),
+btn_delete : new Dom("btn_delete"),
+btn_record : new Dom("btn_record"),
+btn_reset : new Dom("btn_reset"),
+component_t1 : new Dom("component_t1"),
+component_t2 : new Dom("component_t2"),
+component_t3 : new Dom("component_t3"),
+component_t4 : new Dom("component_t4"),
+graph_border : new Dom("graph_border"),
+load_1 : new Dom("load_1"),
+load_2 : new Dom("load_2"),
+option_1 : new Dom("option_1"),
+option_1_a : new Dom("option_1_a"),
+option_1_graph_1 : new Dom("option_1_graph_1"),
+option_1_graph_2 : new Dom("option_1_graph_2"),
+option_1_graph_3 : new Dom("option_1_graph_3"),
+option_1_graph_4 : new Dom("option_1_graph_4"),
+option_1_graph_circuit : new Dom("option_1_graph_circuit"),
+option_1_graph_full : new Dom("option_1_graph_full"),
+option_1_left_graph : new Dom("option_1_left_graph"),
+option_1_left_graph_text : new Dom("option_1_left_graph_text"),
+option_1_right_graph : new Dom("option_1_right_graph"),
+option_1_right_graph_text : new Dom("option_1_right_graph_text"),
+option_1_tab_1 : new Dom("option_1_tab_1"),
+option_1_tab_2 : new Dom("option_1_tab_2"),
+option_1_tab_3 : new Dom("option_1_tab_3"),
+option_1_tab_4 : new Dom("option_1_tab_4"),
+option_1_tab_5 : new Dom("option_1_tab_5"),
+option_1_tab_6 : new Dom("option_1_tab_6"),
+option_1_text_2_graph : new Dom("option_1_text_2_graph"),
+option_1_text_graph : new Dom("option_1_text_graph"),
+option_1_v_1 : new Dom("option_1_v_1"),
+option_1_v_2 : new Dom("option_1_v_2"),
+option_1_v_3 : new Dom("option_1_v_3"),
+option_2 : new Dom("option_2"),
+option_2_a : new Dom("option_2_a"),
+option_2_graph_1 : new Dom("option_2_graph_1"),
+option_2_graph_2 : new Dom("option_2_graph_2"),
+option_2_graph_3 : new Dom("option_2_graph_3"),
+option_2_graph_4 : new Dom("option_2_graph_4"),
+option_2_graph_circuit : new Dom("option_2_graph_circuit"),
+option_2_graph_full : new Dom("option_2_graph_full"),
+option_2_tab_1 : new Dom("option_2_tab_1"),
+option_2_tab_2 : new Dom("option_2_tab_2"),
+option_2_tab_3 : new Dom("option_2_tab_3"),
+option_2_tab_4 : new Dom("option_2_tab_4"),
+option_2_tab_5 : new Dom("option_2_tab_5"),
+option_2_tab_6 : new Dom("option_2_tab_6"),
+option_2_tab_7 : new Dom("option_2_tab_7"),
+option_2_tab_8 : new Dom("option_2_tab_8"),
+option_2_text_2_graph : new Dom("option_2_text_2_graph"),
+option_2_text_graph : new Dom("option_2_text_graph"),
+option_2_v_1 : new Dom("option_2_v_1"),
+option_2_v_2 : new Dom("option_2_v_2"),
+option_2_v_3 : new Dom("option_2_v_3"),
+part_1_circuit : new Dom("part_1_circuit"),
+part_1_circuit_without_box : new Dom("part_1_circuit_without_box"),
+part_2_select_option_full : new Dom("part_2_select_option_full"),
+right_tick : new Dom("right_tick"),
+tab_alpha : new Dom("tab_alpha"),
+tab_set_1 : new Dom("tab_set_1"),
+tab_set_2 : new Dom("tab_set_2"),
+tab_thyristor : new Dom("tab_thyristor"),
+text_choose : new Dom("text_choose"),
+text_connect : new Dom("text_connect"),
+text_correct : new Dom("text_correct"),
+value_box_alpha : new Dom("value_box_alpha"),

@@ -1,0 +1,100 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+
+      "question": "1. What happens to the average output voltage of a controlled bridge rectifier as the firing angle increases?",
+      "answers": {        
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains constant",
+        "d": "Independent of firing angle"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2: As the firing angle increases, the conduction period decreases, reducing the average output voltage.",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+      
+    {
+
+      "question": "2. Which of the following methods can be used to control the output voltage of a controlled bridge rectifier?",
+      "answers": {
+        "a": "Only by changing the amplitude of the input AC voltage",
+        "b": "Changing the frequency of the input AC voltage",
+        "c": "Only by controlling the firing angle of the SCR",
+        "d": "By changing the amplitude of the input AC voltage and/or firing angle"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: The output voltage of a controlled bridge rectifier can be controlled by adjusting the input AC voltage amplitude and/or the firing angle of the SCR."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    
+    {
+
+      "question": "3. What is the main advantage of a controlled bridge rectifier over an uncontrolled bridge rectifier?",
+      "answers": {
+        "a": "Higher efficiency",
+        "b": "Lower cost",
+        "c": "Simplicity of design",
+        "d": "Easy power control"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: A controlled bridge rectifier allows precise control of the output voltage and power by adjusting the firing angle of the thyristors, which is not the case in uncontrolled rectifier."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+        
+    {
+
+      "question": "4. What happens to the source current waveform shape when a resistive load is replaced by a highly inductive load?",
+      "answers": {
+        "a": "Distorted sine waveform",
+        "b": "Triangular waveform",
+        "c": "Sine waveform with no harmonics",
+        "d": "Square waveform"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4: Highly inductive loads will not allow sudden change in the current while the current in resistive load follow the voltage."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    
+    {
+      
+
+      "question": "5. What happens when two thyristor of same leg starts conducting?",
+      "answers": {
+        "a": "The input voltage source shorted.",
+        "b": "The output load current starts to freewheel.",
+        "c": "Source current is same as load current.",
+        "d": "Load voltage is same as the source voltage."
+      },
+      "explanations": {
+        "a": "Explanation 1: If both thyristors in the same leg of a bridge rectifier conduct simultaneously, it creates a direct short circuit across the input voltage source. ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
